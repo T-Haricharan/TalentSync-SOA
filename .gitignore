@@ -1,0 +1,27 @@
+# Maven
+**/target/
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+
+# STS workspace
+.metadata/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Local configuration
+**/application-local.properties
+
+# Spring Boot local configuration
+**/src/main/resources/application.properties
+
+# IDE
+.vscode/
+.idea/
